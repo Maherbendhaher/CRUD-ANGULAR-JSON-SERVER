@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "name": "solmi",
+      "email": "solmi@gmail.com",
+      "city": "Gafsa",
+      "pincode": 2143,
+      "phonenumber": 56847909,
+      "id": 6
+    },
+    {
+      "name": "mansour",
+      "email": "mansour@gmail.com",
+      "city": "mmmmm",
+      "pincode": 545554,
+      "phonenumber": 5445554,
+      "id": 7
+    },
+    {
+      "name": "mmm",
+      "email": "m@gmail.com",
+      "city": "hh",
+      "pincode": 3,
+      "phonenumber": 12121212,
+      "id": 8
+    },
+    {
+      "name": ",f",
+      "email": "kkkkk@gmail.com",
+      "city": "kkkk",
+      "pincode": 2083,
+      "phonenumber": 56847909,
+      "id": 9
+    }
+  ]
+}
